@@ -13,6 +13,7 @@ object HelloSpark {
 
 
     println("Spark 3.5.8 with Gradle is running!")
+    println("Initial commit main 1")
     spark.stop()
   }
 }
