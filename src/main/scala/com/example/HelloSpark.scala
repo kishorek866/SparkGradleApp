@@ -15,6 +15,7 @@ object HelloSpark {
     println("Spark 3.5.8 with Gradle is running!")
     println("Commit 1")
     println("Commit 2")
+    println("Commit 3")
     spark.stop()
   }
 }
